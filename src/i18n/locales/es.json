@@ -1,0 +1,18 @@
+{
+  "common": {
+    "hello": "Hola Mundo",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar"
+  },
+  "home": {
+    "title": "Esta es mi nueva aplicación.",
+    "subtitle": "Espero que te guste.",
+    "accent": "Acento",
+    "outline": "Contorno"
+  },
+  "input": {
+    "placeholder": "Escribe texto...",
+    "translate": "Traducir"
+  }
+}

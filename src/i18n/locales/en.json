@@ -1,0 +1,18 @@
+{
+  "common": {
+    "hello": "Hello World",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "home": {
+    "title": "This is my new app.",
+    "subtitle": "I hope you like it.",
+    "accent": "Accent",
+    "outline": "Outline"
+  },
+  "input": {
+    "placeholder": "Enter text...",
+    "translate": "Translate"
+  }
+}
