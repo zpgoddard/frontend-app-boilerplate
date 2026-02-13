@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frontend-app-boilerplate",
-    "slug": "frontend-app-boilerplate",
+    "name": "module-manager-app",
+    "slug": "module-manager-app",
     "version": "1.0.0",
     "platforms": ["ios", "android", "web"],
     "orientation": "portrait",
@@ -12,13 +12,13 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.boilerplate.app"
+      "bundleIdentifier": "com.modulemanager.app"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       },
-      "package": "com.boilerplate.app"
+      "package": "com.modulemanager.app"
     }
   }
 }
